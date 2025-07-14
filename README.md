@@ -4,6 +4,8 @@
 
 💻 Full Stack Java Developer with strong skills in Java, Oracle SQL, JavaScript, HTML, and CSS.
 
+🧩 I have developed a project on full-stack web application to manage student records with Spring Boot backend and responsive HTML/JavaScript frontend.
+
 🧩 My final year project focused on **Weed Detection using Deep Learning**, demonstrating my problem-solving and technical skills.
 
 🚀 Quick learner, highly motivated, and currently seeking opportunities in backend or database roles (Oracle SQL/DBA). Open to relocation and available to join immediately.
