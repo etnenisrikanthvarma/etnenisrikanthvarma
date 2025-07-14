@@ -21,8 +21,9 @@
 
 ## 📌 Featured Projects
 
-### 📘 [Student Management System](https://github.com/etnenisrikanthvarma/Student_management_systems-
+### 📘 [Student Management System]
 A full-stack CRUD app built with:
+- 📂 [Repository](https://github.com/etnenisrikanthvarma/Student_management_systems-)
 - 🛠️ Spring Boot (REST API)
 - 🗄️ Oracle SQL
 - 🌐 HTML, CSS, JavaScript frontend
