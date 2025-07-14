@@ -21,6 +21,14 @@
 
 ## 📌 Featured Projects
 
+### 📘 [Student Management System](https://github.com/etnenisrikanthvarma/Student_management_systems-
+A full-stack CRUD app built with:
+- 🛠️ Spring Boot (REST API)
+- 🗄️ Oracle SQL
+- 🌐 HTML, CSS, JavaScript frontend
+- Features: Add, view, update, delete student records
+
+
 ### 🌐 Product Landing Page
 A responsive, modern landing page built with HTML, CSS, and JavaScript.
 - 📂 [Repository](https://github.com/etnenisrikanthvarma/product-landing-page)
@@ -41,7 +49,7 @@ Final year project focused on weed identification in agricultural fields using d
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/etneni-srikanth-972714291)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/etnenisrikanthvarma)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:etnenisrikanth143@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?logo=githubpages&logoColor=white)](https://etnenisrikanthvarma.github.io/My-portifolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292e?logo=githubpages&logoColor=white)](https://etnenisrikanthvarma.github.io/My-portfolio)
 
 ---
 
