@@ -17,7 +17,8 @@
 - 💻 **Languages**: Java, JavaScript
 - 🗄️ **Database**: Oracle SQL
 - 🌐 **Frontend**: HTML5, CSS3, Bootstrap
-- ⚙️ **Tools**: Git, GitHub, VS Code
+- ⚙️ **Tools**: Git, GitHub, VS Code, Postman
+- ⚙️ **FrameWorks**: SpringBoot
 
 ---
 
